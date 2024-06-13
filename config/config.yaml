@@ -1,0 +1,12 @@
+database:
+  user: local
+  password: local
+  host: 127.0.0.1
+  port: 3306
+  name: test_one_pay
+
+server:
+  port: 8080
+
+jwt:
+  secret: test0neP4y
